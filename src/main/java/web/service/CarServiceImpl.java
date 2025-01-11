@@ -1,7 +1,7 @@
 package web.service;
 
 import org.springframework.stereotype.Controller;
-import web.Models.Car;
+import web.models.Car;
 
 import java.util.ArrayList;
 import java.util.List;
